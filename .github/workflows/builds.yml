@@ -47,6 +47,7 @@ jobs:
           - "601.0.0"
           - "601.0.1"
           - "602.0.0"
+          - "603.0.0"
         configuration:
           - debug
           - release
@@ -88,6 +89,7 @@ jobs:
           - "601.0.0"
           - "601.0.1"
           - "602.0.0"
+          - "603.0.0"
         configuration:
           - debug
           - release
@@ -138,6 +140,7 @@ jobs:
           - "601.0.0"
           - "601.0.1"
           - "602.0.0"
+          - "603.0.0"
         configuration:
           - debug
           - release
